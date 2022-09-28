@@ -1,0 +1,15 @@
+[
+    {
+        "userId":"101",
+        "password":"manager",
+        "type":"Librarian",
+        "name":"Ahsun Mahmud Riad",
+        "email":"riad@librarian.lms.com",
+        "gender":"Male","phone":"01797041470",
+        "address":"Nikunjo 2, Dhaka",
+        "dob":"1978-03-17",
+        "hiredate":"2014-03-17",
+        "salary":"500"
+    },
+    {
+        "userId":"102","password":"manager456","type":"Librarian","name":"Md. Shayanul Haq","email":"sadi@librarian.lms.com","gender":"Male","phone":"01400001111","address":"Kuril, Dhaka","dob":"1987-03-17","hiredate":"2020-04-27","salary":"400"}]
