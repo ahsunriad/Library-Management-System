@@ -1,1 +1,1 @@
-This is a basic grocery library management system
+This is a basic library management system
