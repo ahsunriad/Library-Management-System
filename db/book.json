@@ -1,0 +1,5 @@
+[{"bookId":"501","bookName":"Automate The Boring Stuff With Python","catagory":"CSE","authorName":"Al Sweigart","publisherName":"William Pollock","edition":"2","isbn":"978-1-59327-599-0","noOfCopies":"10","bookCover":"81uaHvFBMzL.jpg"},
+    {"bookId":"502","bookName":"Operations Management","catagory":"BBA","authorName":"William J. Stevenson","publisherName":"McGraw-Hill Education","edition":"12","isbn":"978-0-07-802410-8","noOfCopies":"5","bookCover":"Operation Management.PNG"},
+    {"bookId":"503","bookName":"Introduction to Algorithms","catagory":"CSE","authorName":"Thomas H. Cormen, Charles E. Leiserson Ronald L. Rivest, Clifford Stein","publisherName":"Massachusetts Institute of Technology","edition":"3","isbn":"978-0-262-03384-8","noOfCopies":"7","bookCover":"algo.PNG"},
+    {"bookId":"504","bookName":"CSharp 4.0 The.Complete Reference","catagory":"CSE","authorName":"Herbert Schildt","publisherName":"Massachusetts Institute of Technology","edition":"5","isbn":"978-0-262-03384-8","noOfCopies":"5","bookCover":"algo.PNG"}
+]

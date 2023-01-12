@@ -1,0 +1,24 @@
+[
+    {
+        "userId":"201",
+        "userType": "member",
+        "name":"Mahnaj Parvin",
+        "email":"mahnaj@member.lms.com",
+        "gender":"Female",
+        "phone":"01400001111",
+        "address":"Mirpur, Dhaka",
+        "memberType":"Gold",
+        "expdate":"2022-04-27"
+    },
+    {
+        "userId":"202",
+        "userType": "member",
+        "name":"Sultana Yasmin",
+        "email":"sultana@member.lms.com",
+        "gender":"Female",
+        "phone":"01500009999",
+        "address":"Bashundhara, Dhaka",
+        "memberType":"Silver",
+        "expdate":"2022-05-02"
+    }
+]
